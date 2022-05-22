@@ -98,8 +98,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
-├ ${prefix}rules
-├ ${prefix}sc
+├ ${prefix
 ├ ${prefix}ping
 ├ ${prefix}runtime
 ├ ${prefix}botstatus
@@ -849,7 +848,6 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
 `
 }
 exports.tos = (ownernomer) => {
