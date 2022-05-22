@@ -98,7 +98,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
-├ ${prefix
+├ ${prefix}rules
 ├ ${prefix}ping
 ├ ${prefix}runtime
 ├ ${prefix}botstatus
